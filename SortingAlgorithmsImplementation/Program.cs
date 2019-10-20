@@ -8,7 +8,7 @@ namespace SortingAlgorithmsImplementation
 {
     static class Program
     {
-        // Test
+        // Test commit
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
