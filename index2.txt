@@ -1,1 +1,2 @@
 test1
+sth added for the sake of adding a merge conflict
